@@ -26,3 +26,6 @@ Accédez l'application via le URL : http://127.0.0.1:5000/
 
 ### Preview
 **Lien pour une petite sequence de vidéo** https://drive.google.com/file/d/1tLnokjty7x04b0R7Iz7_PERlrwn9ttOq/view?usp=sharing
+
+### Modele
+https://drive.google.com/file/d/1QVH3W8eJTA8WvwoEpoyYG0Ea99KgKiTR/view?usp=sharing
